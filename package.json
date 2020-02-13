@@ -1,0 +1,33 @@
+{
+    "name": "tourtestproject",
+    "version": "0.0.1",
+    "description": "Tour Porject",
+    "main": "index.js",
+    "scripts": {
+        "test": "nodemon index.js",
+        "start": "nodemon index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/debasishdhara-dev/tourtestpro.git"
+    },
+    "keywords": [
+        "Tour",
+        "node.js",
+        "express",
+        "passport",
+        "ejs",
+        "redis",
+        "mongodb"
+    ],
+    "author": "Debasish Dhara",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/debasishdhara-dev/tourtestpro/issues"
+    },
+    "homepage": "https://github.com/debasishdhara-dev/tourtestpro#readme",
+    "dependencies": {
+        "body-parser": "^1.19.0",
+        "express": "^4.17.1"
+    }
+}
